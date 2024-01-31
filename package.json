@@ -1,0 +1,10 @@
+{
+  "name": "@incriptionsplace/plugin-helper",
+  "version": "1.0.0",
+  "description": "Everscale inscriptions plugin interface",
+  "main": "index.mjs",
+  "scripts": {
+  },
+  "author": "Andrei Nedobylskii <admin@twister-vl.ru>",
+  "license": "ISC"
+}
