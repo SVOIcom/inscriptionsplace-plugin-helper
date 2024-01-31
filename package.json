@@ -1,6 +1,6 @@
 {
   "name": "@inscriptionsplace/plugin-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Everscale inscriptions plugin interface",
   "main": "index.mjs",
   "module": "index.mjs",
@@ -10,6 +10,15 @@
   },
   "scripts": {
   },
+  "keywords": [
+    "inscriptions",
+    "plugin",
+    "everscale",
+    "ever",
+    "crypto",
+    "blockchain",
+    "inscriptionsplace"
+  ],
   "author": "Andrei Nedobylskii <admin@twister-vl.ru>",
   "license": "ISC"
 }
